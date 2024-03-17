@@ -1,0 +1,14 @@
+02:26:38 **** Incremental Build of configuration Debug for project uart_app_system ****
+make all 
+Generating bif file for the system project
+generate_system_bif.bat 17841 C:/Users/darkr/Documents/vitisProjects2/pmod_wrapper/export/pmod_wrapper/pmod_wrapper.xpfm standalone_ps7_cortexa9_0 C:/Users/darkr/Documents/vitisProjects2/uart_app_system/Debug/system.bif
+ECHO is off.
+ECHO is off.
+sdcard_gen --xpfm C:/Users/darkr/Documents/vitisProjects2/pmod_wrapper/export/pmod_wrapper/pmod_wrapper.xpfm --sys_config pmod_wrapper --bif C:/Users/darkr/Documents/vitisProjects2/uart_app_system/Debug/system.bif --bitstream C:/Users/darkr/Documents/vitisProjects2/uart_app/_ide/bitstream/pmod_wrapper.bit --elf C:/Users/darkr/Documents/vitisProjects2/uart_app/Debug/uart_app.elf,ps7_cortexa9_0
+ECHO is off.
+ECHO is off.
+creating BOOT.BIN using C:/Users/darkr/Documents/vitisProjects2/uart_app/_ide/bitstream/pmod_wrapper.bit
+Running E:/Xilinx/Vitis/2023.2/bin/bootgen  -image C:/Users/darkr/Documents/vitisProjects2/uart_app_system/Debug/sd_card_temp/boot.bif -w -o i BOOT.BIN
+
+02:26:44 Build Finished (took 5s.561ms)
+

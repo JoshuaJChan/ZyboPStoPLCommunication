@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="uart_app" location="C:/Users/darkr/Documents/vitisProjects2/uart_app" platform="C:/Users/darkr/Documents/vitisProjects2/pmod_wrapper/export/pmod_wrapper/pmod_wrapper.xpfm" platformUID="xilinx:zybo-z7-10::0.0(custom)" systemProject="uart_app_system" sysConfig="pmod_wrapper" runtime="cpp" cpu="standalone_ps7_cortexa9_0" cpuInstance="ps7_cortexa9_0" os="standalone" language="CPP" mssSignature="f5e52b316193e61a5840b96265141f8a">
+  <configuration name="Debug" id="xilinx.gnu.armv7.exe.debug.153859513">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.armv7.exe.release.670070510" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="empty_application"/>
+</sdkproject:SdkProject>

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;pmod_wrapper_1&apos;" deleteContents="false" description="Delete resource &apos;pmod_wrapper_1&apos;" element1="/pmod_wrapper_1" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1710673748926"/>&#x0A;<refactoring comment="Delete resource &apos;pmod_wrapper&apos;" deleteContents="false" description="Delete resource &apos;pmod_wrapper&apos;" element1="/pmod_wrapper" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1710673753425"/>
+</session>

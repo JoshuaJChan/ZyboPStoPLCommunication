@@ -1,0 +1,18 @@
+07:11:34 DEBUG : Logs will be stored at 'C:/Users/darkr/Documents/vivadoProjects/uart-pl/IDE.log'.
+07:11:38 INFO  : Platform repository initialization has completed.
+07:11:38 INFO  : Launching XSCT server: xsct.bat -n  -interactive C:\Users\darkr\Documents\vivadoProjects\uart-pl\temp_xsdb_launch_script.tcl
+07:11:38 INFO  : Registering command handlers for Vitis TCF services
+07:11:40 INFO  : XSCT server has started successfully.
+07:11:40 INFO  : plnx-install-location is set to ''
+07:12:01 INFO  : Successfully done setting XSCT server connection channel  
+07:12:01 INFO  : Successfully done query RDI_DATADIR 
+07:12:01 INFO  : Successfully done setting workspace for the tool. 
+07:13:46 DEBUG : Logs will be stored at 'C:/Users/darkr/Documents/vivadoProjects/uart-pl/IDE.log'.
+07:13:48 INFO  : Launching XSCT server: xsct.bat -n  -interactive C:\Users\darkr\Documents\vivadoProjects\uart-pl\temp_xsdb_launch_script.tcl
+07:13:48 INFO  : Platform repository initialization has completed.
+07:13:49 INFO  : Registering command handlers for Vitis TCF services
+07:13:50 INFO  : XSCT server has started successfully.
+07:13:50 INFO  : Successfully done setting XSCT server connection channel  
+07:13:51 INFO  : plnx-install-location is set to ''
+07:13:51 INFO  : Successfully done setting workspace for the tool. 
+07:13:51 INFO  : Successfully done query RDI_DATADIR 

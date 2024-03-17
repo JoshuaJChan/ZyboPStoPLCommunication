@@ -1,0 +1,10 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:Debugger_uart_app-Default,org.eclipse.launchbar.core.descriptorType.default\:Debugger_uart2-Emulation,org.eclipse.launchbar.core.descriptorType.default\:Debugger_uart2-Default,org.eclipse.launchbar.core.descriptorType.default\:Debugger_uart-pl-Default
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:Debugger_uart-pl-Default/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Debugger_uart2-Default/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Debugger_uart2-Default/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:Debugger_uart_app-Default/activeLaunchMode=embrun
+org.eclipse.launchbar.core.descriptorType.default\:Debugger_uart_app-Default/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
